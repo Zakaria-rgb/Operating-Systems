@@ -1,2 +1,3 @@
 # Operating-Systems
 A IOS operating system is an operating system that was created in June of 2007 by a man by the name of Steve Jobs. The IOS is an operating system used in mobile devices such as the Iphone. They come out with a new an updated version of the IOS every september along with a new Iphone release.
+An android Operating system is a mobile device operating system that was crerated in September of 2008 by Andy Rubin, Nick Sears, and Rich Miner. Android operating systems are on many different mobile devices such as Samsungs, Nokia, Motorolla, and google pixel. As of 2019 86.7% of phones in the world are operated by android and there are 2.5 billion mobile devices out there that are currently ran through an andrroid operating system.
